@@ -1,0 +1,4 @@
+requests
+urllib.request 
+bs4 
+re
